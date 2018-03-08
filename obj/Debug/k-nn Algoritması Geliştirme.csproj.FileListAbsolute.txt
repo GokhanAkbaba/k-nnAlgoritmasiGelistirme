@@ -1,0 +1,15 @@
+C:\Users\cannet\Desktop\Veri Madenciliği\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\cannet\Desktop\Veri Madenciliği\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\cannet\Desktop\Veri Madenciliği\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\cannet\Desktop\Veri Madenciliği\WindowsFormsApplication1\bin\Debug\mscorlib.dll
+C:\Users\cannet\Desktop\Veri Madenciliği\WindowsFormsApplication1\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\cannet\Desktop\Veri Madenciliği\WindowsFormsApplication1\bin\Debug\normidna.nlp
+C:\Users\cannet\Desktop\Veri Madenciliği\WindowsFormsApplication1\bin\Debug\normnfc.nlp
+C:\Users\cannet\Desktop\Veri Madenciliği\WindowsFormsApplication1\bin\Debug\normnfd.nlp
+C:\Users\cannet\Desktop\Veri Madenciliği\WindowsFormsApplication1\bin\Debug\normnfkc.nlp
+C:\Users\cannet\Desktop\Veri Madenciliği\WindowsFormsApplication1\bin\Debug\normnfkd.nlp
+C:\Users\cannet\Desktop\Veri Madenciliği\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\cannet\Desktop\Veri Madenciliği\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\cannet\Desktop\Veri Madenciliği\WindowsFormsApplication1\obj\Debug\k-nn Algoritması Geliştirme.csproj.GenerateResource.Cache
+C:\Users\cannet\Desktop\Veri Madenciliği\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\cannet\Desktop\Veri Madenciliği\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

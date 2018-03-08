@@ -1,0 +1,21 @@
+C:\Users\ogrenci\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ogrenci\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ogrenci\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\Veri Madenciliği\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ogrenci\Desktop\Veri Madenciliği\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\Veri Madenciliği\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\Veri Madenciliği\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\Veri Madenciliği\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\Veri Madenciliği\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\Veri Madenciliği\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ogrenci\Desktop\Veri Madenciliği\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Veri Madenciliği\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\cannet\Desktop\Veri Madenciliği\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\cannet\Desktop\Veri Madenciliği\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\cannet\Desktop\Veri Madenciliği\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
